@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Currently improving my understandng of LLMs and how to solve problems with them
-- 🌱 I’m currently digging deeper nto Python and Angular
+- 🔭 Currently improving my understandng of LLMs and how to solve problems with them. Working on [Verifine](https://study.verifine.ai)
+- 🌱 I’m constantly digging deeper into Python and Angular
 - 👯 I’m always looking for opportunites to talk, [write](https://blog.khophi.co) and do [videos](https://www.youtube.com/watch?v=TW5HYRz6kPk) about tech and tools I use
 - 💬 Ask me about Software Development, [3D Design](https://www.youtube.com/playlist?list=PLWEYPtH04KyLfhbIjmyVQBYFwx1dm9515) (I use Blender), [Quadcopter Piloting](https://fpvafrica.com) (FPV to be precise) and creating content on [YouTube](https://youtube.com/khophi)
 - 📺 I make videos on YouTube on my [KhoPhi](https://youtube.com/khophi) and [FPV Africa](https://youtube.com/fpvafrica) Channels
