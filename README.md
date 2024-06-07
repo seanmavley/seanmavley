@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 📃 [Project Dutch](https://dutch.khophi.com), which lists all the Dutch organizations that offer visa sponsorship for jobs, easily searchable and categorized.
 - 🔭 Currently improving my understandng of LLMs and how to solve problems with them. Working on [Verifine](https://study.verifine.ai)
 - 🌱 I’m constantly digging deeper into Python and Angular
 - 👯 I’m always looking for opportunites to talk, [write](https://blog.khophi.co) and do [videos](https://www.youtube.com/watch?v=TW5HYRz6kPk) about tech and tools I use
